@@ -8,3 +8,5 @@ There was much help in the design of the spreadsheet.h and spreadsheet.cpp files
 This project was a great way to dive into a large, unfamiliar code library, namely boost asio. We examined many different possibilites for asynchronous tcp socket connections and boost asio seemed to be the most robust with adequate documentation. 
 
 The design took many attemps with incremental development. 
+
+Tyler Liddell
